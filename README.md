@@ -1,6 +1,6 @@
 # es_extended V1 Final
 
-### Réupload - 🐌 Discord FiveM Leaks & Dev: https://dsc.gg/fivem-fr/
+## Réupload - 🐌 Discord FiveM Leaks & Dev: https://dsc.gg/fivem-fr/
 
 es_extended is a roleplay framework for FiveM. The to-go framework for creating an economy based roleplay server on FiveM and most popular on the platform, too!
 
